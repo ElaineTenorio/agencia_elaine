@@ -1,0 +1,20 @@
+.navbar-brand img {
+    width: 150px;
+}
+
+.nav-item a{
+    font-size: 30px;
+}
+.btn.btn-primary{
+    background-color: crimson;
+    background-color: crimson;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+section{
+    min-height: 100vh;
+    padding: 100px 0;
+}
